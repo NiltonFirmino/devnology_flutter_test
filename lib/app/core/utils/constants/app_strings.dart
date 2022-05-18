@@ -25,6 +25,7 @@ const kCheckout = "CHECKOUT";
 
 ///DETAILS ITEM
 const kPrice = "Price:";
+const kPriceValue = "R\$ 2,237.79";
 const kAboutThisItem = "About this item:";
 const kShareThis = "SHARE THIS";
 const kAddToCart = "ADD TO CART";

@@ -83,7 +83,7 @@ class _CartPageState extends State<CartPage> {
                       ),
                     ),
                     Text(
-                      kPrice,
+                      kPriceValue,
                       style: TextStyles.subtitle2(
                         color: kColorSecondaryLight,
                       ),
