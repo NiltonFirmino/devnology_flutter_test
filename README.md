@@ -8,3 +8,13 @@
   * Navegação `Modular 5.0`
   * Gerencia de Estado `Streams`
   * Padrão `BloC`
+
+  ## Telas e Navegações Propostas no desafio:
+
+<img  src="https://i.imgur.com/y57mTir.png">
+
+
+  ### Resultado Final da Execução do Desafio:
+<p align="center">
+ <img  width="300" height="625" src="ssets/readme/app_devnology.gif">
+ <p/>
