@@ -15,6 +15,7 @@
 
 
   ### Resultado Final da Execução do Desafio:
-<p align="center">
- <img  width="300" height="625" src="ssets/readme/app_devnology.gif">
+  
+ <p align="left">
+ <img  width="300"  src="assets/readme/app_devnology_test.gif">
  <p/>
