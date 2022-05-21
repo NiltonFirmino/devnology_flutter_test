@@ -8,6 +8,7 @@
   * Navegação `Modular 5.0`
   * Gerencia de Estado `Streams`
   * Padrão `BloC`
+  * Versão Flutter `2.10.3`
 
   ## Telas e Navegações Propostas no desafio:
 
